@@ -1,0 +1,66 @@
+{
+    "skills": [
+        {
+            "id": 1,
+            "link": "#",
+            "name": "C-Programming",
+            "image": "images/c.jpg"
+        },
+        {
+            "id": 2,
+            "link": "#",
+            "name": "C++",
+            "image": "images/c++.jpg"
+        },
+        {
+            "id": 3,
+            "link": "#",
+            "name": "C#",
+            "image": "images/c-sharp.jpg"
+        },
+        {
+            "id": 4,
+            "link": "#",
+            "name": "Java",
+            "image": "images/java.jpg"
+        },
+        {
+            "id": 5,
+            "link": "#",
+            "name": "Python",
+            "image": "images/python.jpg"
+        },
+        {
+            
+            "id": 6,
+            "link": "#",
+            "name": "Php",
+            "image": "images/php.jpg"
+        },
+        {
+            "id": 7,
+            "link": "#",
+            "name": "HTML",
+            "image": "images/html.jpg"
+        },
+        {
+            "id": 8,
+            "link": "#",
+            "name": "CSS",
+            "image": "images/css.jpg"
+        },
+        {
+            "id": 9,
+            "link": "#",
+            "name": "JavaScript",
+            "image": "images/javascript.jpg"
+        },
+        {
+            "id": 10,
+            "link": "#",
+            "name": "MySQL",
+            "image": "images/sql.jpg"
+        }
+        
+    ]
+}

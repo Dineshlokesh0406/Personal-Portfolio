@@ -1,0 +1,31 @@
+{
+    "projects": [
+        {
+            "id": 1,
+            "image": "images/project_1.jpg",
+            "category": "Open Source",
+            "title": "Hospital Management",
+            "tags": ["HTML", "CSS", "JavaScript"],
+            "code_link": "#",
+            "description": "<p>The website is designed interactively to provide users with information about the hospital's expertise, experience, and hospitality. Patients can also receive daily updates on their queries and browse through the profiles of the doctors.</p>"
+        },
+        {
+            "id": 2,
+            "image": "images/project_2.jpg",
+            "category": "Open Source",
+            "title": "Attendance Management",
+            "tags": ["HTML", "CSS", "JavaScript", "PHP"],
+            "live_link": "#",
+            "description": "<p>Streamlining <a href=\"#\" target=\"_blank\">attendance management</a> in any organization involves implementing user-friendly systems, tracking employee punctuality, promoting accountability, ensuring accurate record-keeping, and fostering a culture of attendance awareness to maintain efficiency. </p>"
+        },
+        {
+            "id": 3,
+            "image": "images/project_3.jpg",
+            "category": "Open Source",
+            "title": "Online Crime Management",
+            "tags": ["HTML", "CSS", "JavaScript", "PHP"],
+            "live_link": "#",
+            "description": "<p>Efficiently managing online crime involves several key components: strong security measures, using AI to detect threats, encouraging teamwork, raising awareness through campaigns, staying ahead of cybercriminals through research and development, and nurturing a cybersecurity culture to provide complete protection.</p>"
+        }
+    ]
+}
